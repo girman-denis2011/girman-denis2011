@@ -100,7 +100,7 @@ I'm always happy to meet people to code—and vibe-code—with. I'm friendly, an
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/girman-denis2011/TheL">
-        <img src="./thel-preview.jpg" alt="TheL live camera analyzer preview" width="100%" />
+        <img src="./3.gif" alt="TheL live camera analyzer preview" width="100%" />
       </a>
       <h3><a href="https://github.com/girman-denis2011/TheL">TheL</a></h3>
       <p>A local Python webcam analyzer using OpenCV and MediaPipe for face, body, hand, and movement cues.</p>
