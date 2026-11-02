@@ -13,15 +13,50 @@
 
 ### Languages & Frameworks
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Vite` · `Python`
+<p align="center">
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" title="HTML5" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css" alt="CSS" title="CSS" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite" alt="Vite" title="Vite" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="48" />
+</p>
 
 ### Tools
 
-`Codex` · `Claude` · `Antigravity`
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/openai-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/openai-light.svg" />
+    <img src="./assets/openai-light.svg" alt="Codex" title="Codex" height="52" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude" alt="Claude" title="Claude" height="52" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Google Antigravity" title="Google Antigravity" height="52" />
+</p>
 
-### Other Experience
+<h3 align="center">🎮 Game Development</h3>
 
-I used to make games with **Unreal Engine 5** and **Unity**.
+<p align="center"><strong>I used to build games with:</strong></p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://cdn.simpleicons.org/unrealengine/0E1128/FFFFFF" alt="Unreal Engine 5" title="Unreal Engine 5" height="72" />
+      <br /><strong>Unreal Engine 5</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://cdn.simpleicons.org/unity/000000/FFFFFF" alt="Unity" title="Unity" height="72" />
+      <br /><strong>Unity</strong>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./2.gif" alt="Two animated cats" width="100%" />
@@ -33,11 +68,27 @@ I'm always happy to meet people to code—and vibe-code—with. I'm friendly, an
 
 ## Socials
 
-- **Reddit:** [u/peps1z](https://www.reddit.com/user/peps1z/)
-- **SoundCloud:** [peps1z](https://soundcloud.com/peps1z)
-- **TikTok:** [@always_busy03](https://www.tiktok.com/@always_busy03)
-- **Instagram:** [@fdbusy03](https://www.instagram.com/fdbusy03/)
-- **Telegram channel:** [Dentisooo](https://t.me/Dentisooo)
+<p align="center">
+  <a href="https://www.reddit.com/user/peps1z/" title="Reddit">
+    <img src="https://cdn.simpleicons.org/reddit" alt="Reddit" title="Reddit" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://soundcloud.com/peps1z" title="SoundCloud">
+    <img src="https://cdn.simpleicons.org/soundcloud" alt="SoundCloud" title="SoundCloud" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@always_busy03" title="TikTok">
+    <img src="https://cdn.simpleicons.org/tiktok/000000/FFFFFF" alt="TikTok" title="TikTok" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/fdbusy03/" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" title="Instagram" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/Dentisooo" title="Telegram">
+    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" title="Telegram" height="42" />
+  </a>
+</p>
 
 <p align="center">
   <img src="./3.jpg" alt="A kitten relaxing in front of a fan" width="100%" />
