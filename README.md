@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Rabbits/1%20bunny.gif" alt="Animated bunny" width="100%" />
+  <img src="./1.gif" alt="Black cat looking at a bowl" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Denis 👋</h1>
@@ -59,14 +59,14 @@
 </table>
 
 <p align="center">
-  <img src="./Rabbits/2%20bunny.gif" alt="Animated bunny" width="100%" />
+  <img src="./2.gif" alt="Two animated cats" width="100%" />
 </p>
 
-**Let's Build Together**
+## Let's Build Together
 
 I'm always happy to meet people to code—and vibe-code—with. I'm friendly, and I'd genuinely love to make friends who want to build things together so we can learn, create, and develop side by side.
 
-<p><strong>Socials</strong></p>
+## Socials
 
 <p align="center">
   <a href="https://www.reddit.com/user/peps1z/" title="Reddit">
@@ -90,11 +90,7 @@ I'm always happy to meet people to code—and vibe-code—with. I'm friendly, an
   </a>
 </p>
 
-<p><strong>Featured Projects</strong></p>
-
-<p align="center">
-  <img src="./Rabbits/3%20bunny.gif" alt="Animated bunny" width="55%" />
-</p>
+## Featured Projects
 
 <table>
   <tr>
@@ -134,3 +130,7 @@ I'm always happy to meet people to code—and vibe-code—with. I'm friendly, an
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="./3.jpg" alt="A kitten relaxing in front of a fan" width="100%" />
+</p>
