@@ -58,13 +58,13 @@
   </tr>
 </table>
 
-<p><strong>Let's Build Together</strong></p>
-
-I'm always happy to meet people to code—and vibe-code—with. I'm friendly, and I'd genuinely love to make friends who want to build things together so we can learn, create, and develop side by side.
-
 <p align="center">
   <img src="./Rabbits/2%20bunny.gif" alt="Animated bunny" width="100%" />
 </p>
+
+**Let's Build Together**
+
+I'm always happy to meet people to code—and vibe-code—with. I'm friendly, and I'd genuinely love to make friends who want to build things together so we can learn, create, and develop side by side.
 
 <p><strong>Socials</strong></p>
 
@@ -93,7 +93,7 @@ I'm always happy to meet people to code—and vibe-code—with. I'm friendly, an
 <p><strong>Featured Projects</strong></p>
 
 <p align="center">
-  <img src="./Rabbits/3%20bunny.gif" alt="Animated bunny" width="100%" />
+  <img src="./Rabbits/3%20bunny.gif" alt="Animated bunny" width="55%" />
 </p>
 
 <table>
